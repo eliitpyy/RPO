@@ -1,0 +1,415 @@
+    1  sudo apt-get update
+    2  sudoadd-apt-repository ppa:pipelight/stable
+    3  sudo add-apt
+    4  sudo apt-get update
+    5  sudo apt-get install --install-recommends pipelight-multi
+    6  sudo pipelight-plugin --update
+    7  sudo pipelight-plugin --enable silverlight5.1
+    8  cd
+    9  time
+   10  find
+   11  clear
+   12  ls
+   13  mkdir eliit
+   14  ls
+   15  cd eliit
+   16  vagrant init ubuntu/trusty64
+   17  vagrant up
+   18  sudo apt install vagrant
+   19  vagrant init ubuntu/trusty64
+   20  vagrant up
+   21  Vagrant up
+   22  vagrant up
+   23  vagrant ssh
+   24  vagrant init ubuntu/trusty64
+   25  mkdir rrr
+   26  ls
+   27  cd rrr
+   28  vagrant up
+   29  ls
+   30  cd
+   31  cd eliit
+   32  vagrant up
+   33  vagrant init ubuntu/trusty64
+   34  vagrant up
+   35  vagrant ssh
+   36  vagrant halt
+   37  cd
+   38  sudo add-apt-repository ppa:pipelight/stable
+   39  sudo apt-get update
+   40  sudo apt-get install --install-recommends pipelight-multi
+   41  sudo pipelight-plugin --update
+   42  sudo pipelight-plugin --enable silverlight
+   43  sudo add-apt-repository ppa:folke-schwinning/personal
+   44  sudo apt-get update
+   45  sudo apt-get install facebook
+   46  sudo apt-get install account-plugin-facebook
+   47  sudo apt-get install unity-webapps-deezer
+   48  arch
+   49  sudo dpkg -i Messenger_linux*.deb
+   50  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+   51  ls
+   52  cd Escritorio
+   53  ls
+   54  cdAndroid
+   55  cd Android
+   56  ls
+   57  cd android-studio/bin/
+   58  ls
+   59  sudo studio.sh
+   60  sh studio.sh
+   61  ls
+   62  cd Escritorio
+   63  cd Android
+   64  cd android-studio/bin/
+   65  ls
+   66  sh studio.sh
+   67  java -version
+   68  sudo apt-get install default-jre
+   69  sudo apt-get install default-jdk
+   70  sudo apt-get install openjdk-7-jdk
+   71  sudo netstat -tlpn
+   72  openssh-server                                  install
+   73  sudo apt-get install openssh-server
+   74  clear
+   75  sudo apt.get install putty
+   76  sudo apt-get install putty
+   77  nmcli dev show eth0
+   78  nmcli dev status
+   79  ifconfig
+   80  nmcli dev show eth0
+   81  nmcli dev status
+   82  enp2s0 
+   83  nmcli dev status
+   84  ifconfig
+   85  nmcli dev status
+   86  ifconfig
+   87  ssh pi@10.42.0.1
+   88  vim eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeexit
+   89  vim /etc/ssh/sshd_config
+   90  sudo vim /etc/ssh/sshd_config
+   91  nano /etc/ssh/sshd_config
+   92  sudo nano /etc/ssh/sshd_config
+   93  ssh pi@10.42.0.1
+   94  sudo nano /etc/ssh/sshd_config
+   95  service ssh restart
+   96  ssh pi@10.42.0.1
+   97  ssh root@10.42.0.1
+   98  ssh pi@10.42.0.1
+   99  sudo ssh pi@10.42.0.1
+  100  ifconfig
+  101  sudo ssh pi@10.42.0.1
+  102  ssh pi@10.42.0.1
+  103  ssh pi@10.42.0.1
+  104  ssh pi@raspberrypi
+  105  ssh pi@10.42.0.1
+  106  ifconfig
+  107  ssh pi@raspberrypi
+  108  ssh pi@10.42.0.1
+  109  ssh-keyscan 10.42.0.1
+  110  nmap -p22 10.42.0.1
+  111  sudo apt install nmap
+  112  nmap -p22 10.42.0.1
+  113  ssh -v  pi@10.42.0.1
+  114  who -q
+  115  ifconfig
+  116  curl icanhazip.com
+  117  sudo nmap -sn 192.168.0/24
+  118  sudo nmap -sn 192.168.0/22
+  119  ifconfig
+  120  nmap -v -sP 192.168.1.1/24 | grep down -v
+  121  ifconfig
+  122  ssh -v  pi@192.168.1.75
+  123  ssh   pi@192.168.1.75
+  124  ssh -v  pi@192.168.1.75
+  125  ssh   pi@192.168.1.75
+  126  nmap -sn 192.168.1/22
+  127  nmap -sn 192.168.0/22
+  128  ifconfig
+  129  nmap -v -sn 192.168.1.0/24
+  130  ssh pi@192.168.1.253
+  131  nmap -sn 192.168.0/22
+  132  ssh pi@192.168.1.253
+  133  ssh pi@192.168.1.254
+  134  ifconfig
+  135  ip
+  136  ip address
+  137  ip link
+  138  ip token
+  139  ip address
+  140  ip
+  141  ifconfig
+  142  whoami
+  143  nano 1.py
+  144  ./1.py
+  145  nano1.py
+  146  nano 1.py
+  147  ./1.py
+  148  exit
+  149  ./1.py
+  150  exit
+  151  ./1.py
+  152  help seek
+  153  info seek
+  154  ls
+  155  ./1.py
+  156  python
+  157  ls
+  158  clear
+  159  nano 1.py
+  160  ./1.py
+  161  nano 1.py
+  162  exit
+  163  ./1.py
+  164  ssh pi@10.42.0.1
+  165  ./1.py
+  166  exit
+  167  ./1.py
+  168  nano 1.py
+  169  config
+  170  ipconfig
+  171  ifconfig
+  172  sudo apt-get install bluez python-gobject python-dbus
+  173  cd  /usr/share/doc/bluez/examples/
+  174  ls
+  175  lspci -nnk | grep -iA2 net; lsusb; hciconfig -a; dmesg | egrep -i 'blue|firm'
+  176  scan on
+  177  rfkill list
+  178  dmesg
+  179  rfkill listsudo nano /etc/bluetooth/main.conf
+  180  sudo nano /etc/bluetooth/main.conf
+  181  sudo service /etc/init.d/bluetooth restart
+  182  sudo service bluetooth restart
+  183  sudo apt-get install unity-control-center
+  184  nano
+  185  ls
+  186  sudo 1.py
+  187  1.py
+  188  python 1.py
+  189  nano 1.py
+  190  python 1.py
+  191  sudo apt-get python-bluez
+  192  sudo apt-get install  python-bluez
+  193  python 1.py
+  194  python recibir.py
+  195  sudo apt-get install idle3
+  196  sudo apt-get install python3-matplotlib
+  197  sudo apt-get install python-matplotlib
+  198  ifconfig
+  199  ifconfig all
+  200  ifconfig
+  201  sudo service bluetooth restart
+  202  ifconfig
+  203  sudo service bluetooth restart
+  204  sudo service bluetooth reboot
+  205  sudo service bluetooth status
+  206  sudo service bluetooth start
+  207  sudo apt-get install blueman
+  208  sudo service bluetooth start
+  209  sudo service bluetooth restart
+  210  rfkill list 
+  211  sudo nano /etc/bluetooth/main.conf
+  212  sudo service /etc/init.d/bluetooth restart
+  213  sudo service bluetooth restart
+  214  hcitool dev
+  215  sudo apt-get install bluez python-gobject python-dbus
+  216  sudo /etc/init.d/bluetooth restart
+  217  sudo apt-get install bluetooth
+  218  dmesg | grep Blue
+  219  lspci -knn | grep Net -A2; lsusb
+  220  sudo service /etc/init.d/bluetooth restart
+  221  sudo apt-get install unity-control-center
+  222  sudo apt autoremove
+  223  sudo apt-get install libopencv-dev python-opencv
+  224  sudo apt-get autoremove libopencv-dev python-opencv
+  225  pip install opencv-python
+  226  sudo apt-get install opencv-python
+  227  conda install opencv
+  228  sudo apt-get install python-opencv
+  229  sudo apt-get install python-tk
+  230  sudo apt-get install guvcview
+  231  sudo apt-get install dov4l dv4l lib32v4l-0 libpt-1.10.10-plugins-v4l2 libv4l-0 libv4l-dev libv4lconvert0 libvideo-capture-v4l-perl qv4l2 v4l-conf v4l-utils v4l2loopback-dkms v4l2loopback-source v4l2ucp
+  232  lsb
+  233  lsb_release -a
+  234  dmesg
+  235  IPSchool
+  236  sudo apt-get install python-paramiko
+  237  ip
+  238  ip address
+  239  ssh
+  240  ssh -i
+  241  show ip interface brief
+  242  sudo apt-add-repository ppa:ehoover/compholio
+  243  sudo apt-get install wine-staging
+  244  sudo apt-get install netflix-desktop
+  245  sudo apt-get update
+  246  sudo apt-get install netflix-desktop
+  247  vim
+  248  clear
+  249  vim hola.c
+  250  nan
+  251  nano
+  252  clear
+  253  vim hola.c
+  254  vim-fnome hola.c
+  255  vim-gnome hola.c
+  256  nano hola.c
+  257  gcc hola.c
+  258  nano hola.c
+  259  gcc hola.c
+  260  hola.c
+  261  ./hola.c
+  262  file hola.c
+  263  ./hola.c
+  264  chmod rwx hola.c
+  265  nano hola.c
+  266  chmod rw hola.c
+  267  chmod
+  268  chmod --help
+  269  chmod 666 hola.c
+  270  ./hola.c
+  271  hola.c
+  272  gcc hola.c
+  273  ./a.out
+  274  script
+  275  #script file.txt
+  276  chmod +x hola.c
+  277  hola.c
+  278  /hola.c
+  279  .hola.c
+  280  ./a.out
+  281  clear
+  282  df -hT
+  283  http://docs.kali.org/introduction/download-official-kali-linux-images
+  284  ls
+  285  http://docs.kali.org/introduction/download-official-kali-linux-images
+  286  $ wget -q -O - https://www.kali.org/archive-key.asc | gpg --import
+  287  wget -q -O - https://www.kali.org/archive-key.asc | gpg --import
+  288  gpg --keyserver hkp://keys.gnupg.net --recv-key 7D8D0BF6
+  289  sudo fdisk -l
+  290  df -hT
+  291  sudo fdisk -l
+  292  df -hT
+  293  sudo fdisk -l
+  294  ls
+  295  dd if=kali-linux-light-2018.1-amd64.iso  of=/dev/sdb bs=512k
+  296  sudo dd if=kali-linux-light-2018.1-amd64.iso  of=/dev/sdb bs=512k
+  297  \end{verbatim}
+  298  nano hola.c
+  299  ls
+  300  hola.c
+  301  ./a.out
+  302  python hola.c
+  303  ./a.out
+  304  vim hola.c
+  305  nano hola.c
+  306  nano modulos.c
+  307  vim
+  308  *vim
+  309  vim vim
+  310  sudo apt instll vim
+  311  sudo apt install vim
+  312  vim
+  313  ./hola.c
+  314  gcc -c hola.c
+  315  gcc -c modulo.c
+  316  vim modulo.c
+  317  gcc -c modulo.c
+  318  vim modulo.c
+  319  vim hola.c
+  320  vim modulo.c
+  321  gcc -c modulo.c
+  322  gcc -c hola.c
+  323  vim hola.c
+  324  gcc -c hola.c
+  325  vim hola.c
+  326  gcc -c hola.c
+  327  vim hola.c
+  328  gcc -c hola.c
+  329  vim hola.c
+  330  gcc -c modulo.c
+  331  ls
+  332  clear
+  333  gcc hola.o modulo.o -o holamodulos
+  334  ./holamodulos
+  335  vim hola.c
+  336  ls
+  337  vim
+  338  vim a1.s
+  339  ls
+  340  rm a1.s
+  341  cd SOTR/P0.1
+  342  cd SOTR
+  343  ls
+  344  cd SOTR
+  345  cd SORT
+  346  cd P0.1
+  347  vim a1.s
+  348  vim a2.s
+  349  cat > hello.c << "EOF"
+  350  include <stdio.h>
+  351  long main(int argc, char *argv[]){
+  352  printf("%d, su ejecutable se llama %s\n",argc,argv[0]);
+  353  return argc;
+  354  }
+  355  EOF
+  356  cat hello.c
+  357  mkdir SORT
+  358  mv hello.c SORT
+  359  cd SORT
+  360  ls -hgotr
+  361  make hello
+  362  nano hello.c
+  363  make hello
+  364  ls -hgotr
+  365  ./hello
+  366  ./hello 99 100 2 3 4 5
+  367  clear
+  368  ./hello 99 100 2 
+  369  vim hello.c
+  370  make hello
+  371  ls -hgotr
+  372  ./hello 99 100 2 
+  373  vim a1.s
+  374  ls
+  375  mkdir P0.1
+  376  mv a1.s P0.1
+  377  ls
+  378  cd P0.1
+  379  ls
+  380  as  --32  a1.s  -o  a1.o
+  381  vim a1.s
+  382  as  --32  a1.s  -o  a1.o
+  383  objdump -D
+  384  objdump -D a1.o
+  385  as  --32  a2.s  -o  a2.o
+  386  objdump -D a2.o
+  387  clear
+  388  objdump -D a1.o
+  389  objdump -D a2.o
+  390  vim test.lds
+  391  ls
+  392  ld  a1.o  a2.o  -o  a.out   -T   test.lds
+  393  ld .m elf_i386  a1.o  a2.o  -o  a.out   -T   test.lds
+  394  ld -m elf_i386  a1.o  a2.o  -o  a.out   -T   test.lds
+  395  ls
+  396  objdump -D a.out
+  397  vim test.lds
+  398  ls
+  399  cd SORT
+  400  ls
+  401  cd P0.1
+  402* 
+  403  vim test.lds
+  404  ls
+  405  make
+  406  ld -m elf_i386  a1.o  a2.o  -o  a.out   -T   test.lds
+  407  vim Makefile
+  408  make
+  409  file a.out
+  410  ls -hgo
+  411  ./a.out
+  412  ld -m elf_i386  a1.o  a2.o  -o  a.out   -T   test.lds
+  413  od -t x1 a.bin
+  414  vim a1.s
+  415  history >salidadehistory.txt
